@@ -1,0 +1,21 @@
+{
+  "name": "8.3.2-daily-stat-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "pg": "^7.3.0",
+    "sequelize": "^4.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
